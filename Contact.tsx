@@ -66,7 +66,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-white mb-1">Email</h4>
-                  <p className="text-teal-300 font-medium">muraliml.s10@gmail.com</p>
+                  <p className="text-teal-300 font-medium">muralimk.s10@gmail.com</p>
                 </div>
               </div>
 
